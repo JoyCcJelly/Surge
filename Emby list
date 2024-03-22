@@ -2,8 +2,7 @@
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 62
-# IP-CIDR: 1
-# TOTAL: 69
+# TOTAL: 68
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
@@ -73,4 +72,3 @@ DOMAIN-SUFFIX,xmsl.org
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-IP-CIDR,193.123.232.141/8096,no-resolve
