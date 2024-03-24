@@ -1,9 +1,9 @@
 # NAME: Emby
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 62
+# DOMAIN-SUFFIX: 63
 # IP-CIDR: 1
-# TOTAL: 69
+# TOTAL: 70
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,movie.xeton.dev
 DOMAIN-SUFFIX,ntt1.jmsooo.com
 DOMAIN-SUFFIX,ohhhh.org
 DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,poloemby.xyz
